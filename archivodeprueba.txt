@@ -1,1 +1,2 @@
 este es un archivo de prueba para github y trabajo remoto de fuentes.
+modificacion realizada directamente desde github
